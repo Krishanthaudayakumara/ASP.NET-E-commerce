@@ -1,0 +1,117 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Krishantha\\Documents\\AssigmentLK\\ASP.NET Assigment - 27\\Project\\Final\\OZQ-cart\\OZQ-cart\\wwwroot\\about.html",
+      "PackagePath": "staticwebassets\\about.html"
+    },
+    {
+      "Id": "C:\\Users\\Krishantha\\Documents\\AssigmentLK\\ASP.NET Assigment - 27\\Project\\Final\\OZQ-cart\\OZQ-cart\\wwwroot\\checkout.html",
+      "PackagePath": "staticwebassets\\checkout.html"
+    },
+    {
+      "Id": "C:\\Users\\Krishantha\\Documents\\AssigmentLK\\ASP.NET Assigment - 27\\Project\\Final\\OZQ-cart\\OZQ-cart\\wwwroot\\contact.html",
+      "PackagePath": "staticwebassets\\contact.html"
+    },
+    {
+      "Id": "C:\\Users\\Krishantha\\Documents\\AssigmentLK\\ASP.NET Assigment - 27\\Project\\Final\\OZQ-cart\\OZQ-cart\\wwwroot\\css\\carousel.css",
+      "PackagePath": "staticwebassets\\css\\carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\Krishantha\\Documents\\AssigmentLK\\ASP.NET Assigment - 27\\Project\\Final\\OZQ-cart\\OZQ-cart\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Krishantha\\Documents\\AssigmentLK\\ASP.NET Assigment - 27\\Project\\Final\\OZQ-cart\\OZQ-cart\\wwwroot\\feedback.html",
+      "PackagePath": "staticwebassets\\feedback.html"
+    },
+    {
+      "Id": "C:\\Users\\Krishantha\\Documents\\AssigmentLK\\ASP.NET Assigment - 27\\Project\\Final\\OZQ-cart\\OZQ-cart\\wwwroot\\img\\airbuds.jpg",
+      "PackagePath": "staticwebassets\\img\\airbuds.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Krishantha\\Documents\\AssigmentLK\\ASP.NET Assigment - 27\\Project\\Final\\OZQ-cart\\OZQ-cart\\wwwroot\\img\\bag.jpg",
+      "PackagePath": "staticwebassets\\img\\bag.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Krishantha\\Documents\\AssigmentLK\\ASP.NET Assigment - 27\\Project\\Final\\OZQ-cart\\OZQ-cart\\wwwroot\\img\\headphone.jpg",
+      "PackagePath": "staticwebassets\\img\\headphone.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Krishantha\\Documents\\AssigmentLK\\ASP.NET Assigment - 27\\Project\\Final\\OZQ-cart\\OZQ-cart\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Krishantha\\Documents\\AssigmentLK\\ASP.NET Assigment - 27\\Project\\Final\\OZQ-cart\\OZQ-cart\\wwwroot\\img\\mouse.jpg",
+      "PackagePath": "staticwebassets\\img\\mouse.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Krishantha\\Documents\\AssigmentLK\\ASP.NET Assigment - 27\\Project\\Final\\OZQ-cart\\OZQ-cart\\wwwroot\\img\\sneaker-2.jpg",
+      "PackagePath": "staticwebassets\\img\\sneaker-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Krishantha\\Documents\\AssigmentLK\\ASP.NET Assigment - 27\\Project\\Final\\OZQ-cart\\OZQ-cart\\wwwroot\\img\\sneakers.jpg",
+      "PackagePath": "staticwebassets\\img\\sneakers.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Krishantha\\Documents\\AssigmentLK\\ASP.NET Assigment - 27\\Project\\Final\\OZQ-cart\\OZQ-cart\\wwwroot\\img\\sunglass.jpg",
+      "PackagePath": "staticwebassets\\img\\sunglass.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Krishantha\\Documents\\AssigmentLK\\ASP.NET Assigment - 27\\Project\\Final\\OZQ-cart\\OZQ-cart\\wwwroot\\img\\valeriia-miller-_42NKYROG7g-unsplash.jpg",
+      "PackagePath": "staticwebassets\\img\\valeriia-miller-_42NKYROG7g-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Krishantha\\Documents\\AssigmentLK\\ASP.NET Assigment - 27\\Project\\Final\\OZQ-cart\\OZQ-cart\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Krishantha\\Documents\\AssigmentLK\\ASP.NET Assigment - 27\\Project\\Final\\OZQ-cart\\OZQ-cart\\wwwroot\\js\\cart.js",
+      "PackagePath": "staticwebassets\\js\\cart.js"
+    },
+    {
+      "Id": "C:\\Users\\Krishantha\\Documents\\AssigmentLK\\ASP.NET Assigment - 27\\Project\\Final\\OZQ-cart\\OZQ-cart\\wwwroot\\js\\jquery-3.6.3.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.6.3.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Krishantha\\Documents\\AssigmentLK\\ASP.NET Assigment - 27\\Project\\Final\\OZQ-cart\\OZQ-cart\\wwwroot\\js\\script.js",
+      "PackagePath": "staticwebassets\\js\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\Krishantha\\Documents\\AssigmentLK\\ASP.NET Assigment - 27\\Project\\Final\\OZQ-cart\\OZQ-cart\\wwwroot\\login.html",
+      "PackagePath": "staticwebassets\\login.html"
+    },
+    {
+      "Id": "C:\\Users\\Krishantha\\Documents\\AssigmentLK\\ASP.NET Assigment - 27\\Project\\Final\\OZQ-cart\\OZQ-cart\\wwwroot\\orders.html",
+      "PackagePath": "staticwebassets\\orders.html"
+    },
+    {
+      "Id": "C:\\Users\\Krishantha\\Documents\\AssigmentLK\\ASP.NET Assigment - 27\\Project\\Final\\OZQ-cart\\OZQ-cart\\wwwroot\\profile.html",
+      "PackagePath": "staticwebassets\\profile.html"
+    },
+    {
+      "Id": "C:\\Users\\Krishantha\\Documents\\AssigmentLK\\ASP.NET Assigment - 27\\Project\\Final\\OZQ-cart\\OZQ-cart\\wwwroot\\register.html",
+      "PackagePath": "staticwebassets\\register.html"
+    },
+    {
+      "Id": "C:\\Users\\Krishantha\\Documents\\AssigmentLK\\ASP.NET Assigment - 27\\Project\\Final\\OZQ-cart\\OZQ-cart\\wwwroot\\shop.html",
+      "PackagePath": "staticwebassets\\shop.html"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.OZQ-cart.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.OZQ-cart.props",
+      "PackagePath": "build\\OZQ-cart.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.OZQ-cart.props",
+      "PackagePath": "buildMultiTargeting\\OZQ-cart.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.OZQ-cart.props",
+      "PackagePath": "buildTransitive\\OZQ-cart.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
